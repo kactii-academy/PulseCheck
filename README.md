@@ -291,3 +291,10 @@ This project helped me move from writing pipelines to owning deployments. I now 
 ## 📄 License
 
 MIT
+
+---
+
+## Credits
+
+This repository was mirrored from [https://github.com/Kirankumarvel/PulseCheck](https://github.com/Kirankumarvel/PulseCheck).
+All credit goes to the original authors.
